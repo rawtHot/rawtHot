@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding , new tech , deep convos :)
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on anything that matches my interests.
-- 📫 How to reach me . Mail me at rawatabhay678@gmail.com
+- 📫 How to reach me . Mail me at imabhay1212@gmail.com
 
 <!---
 rawtHot/rawtHot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
